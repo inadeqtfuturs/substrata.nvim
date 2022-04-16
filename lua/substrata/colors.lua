@@ -10,6 +10,7 @@ M.default = {
   green = "#76a065",
   yellow = "#ab924c",
   blue = "#8296b0",
+  pink = "#a18daf",
   magenta = "#a18daf",
   cyan = "#659ea2",
   white = "#b5b4c9",
@@ -45,6 +46,7 @@ M.brighter = {
   yellow = "#b8a161",
   blue = "#889bb4",
   pink = "#a994b8",
+  magenta = "#a994b8",
   cyan = "#77adb1",
   white = "#c5c4d4",
   -- Bright
